@@ -1,0 +1,1 @@
+Use the program KMeansClustering.py and GMMClustering.py and change the filename in the program to the dataset you want to use.
